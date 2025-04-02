@@ -2,12 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-itsPriyeshKumar-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/itsPriyeshKumar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top%2030k-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/itsPriyeshKumar/)
-[![Gmail](https://img.shields.io/badge/Email-priyeshchaurasia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:pchaurasia@binghamton.edu)
+[![Gmail](https://img.shields.io/badge/Email-pchaurasia@binghamton.edu-red?logo=gmail&logoColor=white&style=flat-square)](mailto:pchaurasia@binghamton.edu)
 
 ## 🚀 About Me
-I am an aspiring **Software Engineer** passionate about building impactful solutions. Currently, I'm pursuing a **Master's in Information Systems** at **Binghamton University**, set to graduate in **May 2025**. I am also a **Teaching Assistant** for the Software Project Management course, helping students grasp project management fundamentals and solving their doubts.
+I am a **Software Engineer** passionate about building impactful solutions. Currently, I'm pursuing a **Master's in Information Systems** at **Binghamton University**, set to graduate in **May 2025**.
 
-I have solved **800+ questions on LeetCode**, ranking in the **top 30,000 globally**. My skills include building full-stack web applications and developing AI-powered tools.
+I have solved **800+ questions on LeetCode**, ranking in the **top 30,000 globally**. My skills include building scalable full-stack web applications.
 
 🎯 **Current Goals:**
 - 🔍 Actively interviewing a full-time Software Engineering role.
