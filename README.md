@@ -1,18 +1,18 @@
 # 💫 Hi, I'm Priyesh Kumar Chaurasia! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyesh%20Kumar%20Chaurasia-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/priyesh-kumar-chaurasia/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2045k-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/priyeshchaurasia/)
-[![Gmail](https://img.shields.io/badge/Email-priyeshchaurasia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:priyeshchaurasia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyesh%20Kumar%20Chaurasia-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/itsPriyeshKumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2045k-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/itsPriyeshKumar/)
+[![Gmail](https://img.shields.io/badge/Email-priyeshchaurasia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:pchaurasia@binghamton.edu)
 
 ## 🚀 About Me
-I'm Priyesh Kumar Chaurasia, an aspiring **Software Engineer** passionate about building impactful solutions. Currently, I'm pursuing a **Master's in Information Systems** at **Binghamton University**, set to graduate in **May 2025**. I am also a **Teaching Assistant** for the Software Project Management course, helping students grasp project management fundamentals and solving their doubts.
+I'm Priyesh Chaurasia, an aspiring **Software Engineer** passionate about building impactful solutions. Currently, I'm pursuing a **Master's in Information Systems** at **Binghamton University**, set to graduate in **May 2025**. I am also a **Teaching Assistant** for the Software Project Management course, helping students grasp project management fundamentals and solving their doubts.
 
-I have solved **700+ questions on LeetCode**, ranking in the **top 45,000 globally**. My skills include building full-stack web applications and developing AI-powered tools.
+I have solved **800+ questions on LeetCode**, ranking in the **top 30,000 globally**. My skills include building full-stack web applications and developing AI-powered tools.
 
 🎯 **Current Goals:**
-- 🔍 Finding a full-time Software Engineering role (preferably at Google 🚀).
-- 💪 Improving Dynamic Programming and Graph Theory skills.
-- 💻 Building AI-based projects with **React, MongoDB, and GPT API**.
+- 🔍 Actively interviewing a full-time Software Engineering role.
+- 💪 Improving Competitive Programming skills.
+- 💻 Building projects with **React, MongoDB, and GPT API**.
 
 ## 🛠️ Skills
 ### Languages
@@ -42,12 +42,6 @@ I have solved **700+ questions on LeetCode**, ranking in the **top 45,000 global
 ## 📚 Recent Projects
 - 🔍 **AI-based Code Review & Bug Finder:** Building a full-stack tool using **React, MongoDB, and GPT API**.
 - 📂 **Text-Based Search Engine:** Implemented document search using **Elasticsearch, AWS S3, and Google Cloud Vision API**.
-
-## 💡 Fun Facts
-- 🎬 I love watching movies like *Whiplash* and *Gifted*.
-- 📚 I'm a book enthusiast.
-- 🌟 My favorite color is Sky Blue.
-
 ---
 
 ✨ Thanks for visiting my profile! Feel free to explore my repositories and connect with me!
