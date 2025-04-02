@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Priyesh! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyesh%20Kumar%20Chaurasia-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/itsPriyeshKumar/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2045k-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/itsPriyeshKumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-itsPriyeshKumar-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/itsPriyeshKumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top%2015%k-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/itsPriyeshKumar/)
 [![Gmail](https://img.shields.io/badge/Email-priyeshchaurasia@gmail.com-red?logo=gmail&logoColor=white&style=flat-square)](mailto:pchaurasia@binghamton.edu)
 
 ## 🚀 About Me
