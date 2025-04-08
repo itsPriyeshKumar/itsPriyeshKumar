@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a **Software Engineer** passionate about building impactful solutions. Currently, I'm pursuing a **Master's in Information Systems** at **Binghamton University**, set to graduate in **May 2025**.
 
-I have solved **800+ questions on LeetCode**, ranking in the **top 30,000 globally**. My skills include building scalable full-stack web applications.
+I have solved **900+ questions on LeetCode**, ranking in the **top 30,000 globally**. My skills include building scalable full-stack web applications.
 
 🎯 **Current Goals:**
 - 🔍 Actively interviewing a full-time Software Engineering role.
